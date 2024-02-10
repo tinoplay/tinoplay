@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tinoplay/tinoplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola meu nome é luis sou programador front end , e atualmente estou estudando 
+<br>
+<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'"/>
+<br>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
