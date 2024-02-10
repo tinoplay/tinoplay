@@ -10,5 +10,5 @@ Ola meu nome é luis sou programador front end , e atualmente estou estudando
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tinoplay=anuraghazra&show_icons=true&theme=transparent)
 
